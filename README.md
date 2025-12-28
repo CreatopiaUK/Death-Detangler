@@ -19,7 +19,7 @@ A Minecraft Forge mod that fixes compatibility issues between Hardcore Revival a
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/death_detangler/releases) page
+1. Download the latest release from the [Releases](https://github.com/CreatopiaUK/Death-Detangler/releases) page
 2. Place the `.jar` file in your `mods` folder
 3. Ensure Hardcore Revival is installed (required dependency)
 4. Launch Minecraft
@@ -55,8 +55,8 @@ All commands require operator level 2 (OP level 2).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/death_detangler.git
-   cd death_detangler
+   git clone https://github.com/CreatopiaUK/Death-Detangler.git
+   cd Death-Detangler
    ```
 
 2. Build the mod:
@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Issues
 
-If you encounter any bugs or have feature requests, please open an issue on the [GitHub Issues](https://github.com/yourusername/death_detangler/issues) page.
+If you encounter any bugs or have feature requests, please open an issue on the [GitHub Issues](https://github.com/CreatopiaUK/Death-Detangler/issues) page.
 
 ## Acknowledgments
 
