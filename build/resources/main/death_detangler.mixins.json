@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "uk.creatopia.death_detangler.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "HardcoreRevivalTotemMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

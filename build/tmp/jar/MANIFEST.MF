@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: death_detangler
+Specification-Vendor: @Extra_special_K @TWGMike
+Specification-Version: 1
+Implementation-Title: death-detangler
+Implementation-Version: 1.1.0
+Implementation-Vendor: @Extra_special_K @TWGMike
+Implementation-Timestamp: 2025-12-28T13:10:25-0500
+MixinConfigs: death_detangler.mixins.json
+
